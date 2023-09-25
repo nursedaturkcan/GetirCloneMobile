@@ -1,3 +1,16 @@
+#Preview: 
+
+
+
+https://github.com/nursedaturkcan/GetirCloneMobile/assets/129687664/b70e7bf0-e512-4964-b338-5c4f9c7698d5
+
+
+
+
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
